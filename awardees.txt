@@ -1,0 +1,190 @@
+Awardee	Sponsoring Agency	Academic Discipline	Graduate Institution
+Yasin Abul-Huda	ARO	Aeronautical and Astronautical Engineering	University of Michigan
+Albert Ai	AFOSR	Mathematics	"University of California, Berkeley"
+Lisa Alexander	ONR	Biosciences	"University of California, Berkeley"
+Maria Alexis	ARO	Biosciences	Massachusetts Institute of Technology
+John Alred	AFOSR	Materials Science and Engineering	Rice University
+Chibueze Amanchukwu	AFOSR	Chemical Engineering	Massachusetts Institute of Technology
+Christian Anderson	ONR	Physics	Massachusetts Institute of Technology
+Christopher Anderson	AFOSR	Physics	University of Chicago
+Christopher Angelakos	ONR	"Cognitive, Neural, and Behavioral Sciences"	University of Pennsylvania
+James Angstman	ONR	Biosciences	Harvard University
+Matthew Applegate	AFOSR	Biosciences	Tufts University
+Noah Apthorpe	AFOSR	Computer and Computational Sciences	Cornell University
+Isabella Arzeno	ONR	Oceanography	"University of California, San Diego"
+Trevor Avant	AFOSR	Aeronautical and Astronautical Engineering	University of Washington
+Oscar Ayala	AFOSR	Electrical Engineering	Vanderbilt University
+Alexander Bacanu	AFOSR	Physics	Massachusetts Institute of Technology
+Soham Banerjee	ONR	Materials Science and Engineering	Columbia University
+Nicholas Bartlett	ARO	Mechanical Engineering	Harvard University
+Samuel Bashevkin	ONR	Oceanography	"University of California, Davis"
+Justin Baumann	ONR	Oceanography	University of North Carolina at Chapel Hill
+Rachel Beal	ARO	Materials Science and Engineering	Stanford University
+Matthew Beason	AFOSR	Mechanical Engineering	Purdue University
+Emilio Botero	AFOSR	Aeronautical and Astronautical Engineering	Stanford University
+Kirk Brouwer	AFOSR	Aeronautical and Astronautical Engineering	Ohio State University
+Nicholas Burali	ARO	Mechanical Engineering	California Institute of Technology
+Nikita Butakov	ARO	Electrical Engineering	"University of California, Santa Barbara"
+Katherine Cameron	ONR	Oceanography	"University of California, San Diego"
+Seth Cazzell	AFOSR	Materials Science and Engineering	Massachusetts Institute of Technology
+Alice Chang	AFOSR	Chemistry	California Institute of Technology
+Tammy Chang	AFOSR	Electrical Engineering	Stanford University
+Thomas Chartrand	AFOSR	Mathematics	"University of California, Davis"
+Anton Chavez	ARO	Chemistry	Cornell University
+Charlotte Chen	AFOSR	Materials Science and Engineering	Northwestern University
+James Christensen	AFOSR	Chemistry	University of Illinois at Urbana-Champaign
+Jason Christopher	ONR	Physics	Boston University
+Brandon Chynoweth	AFOSR	Aeronautical and Astronuatical Engineering	Purdue University
+Roberto Colon Quinones	AFOSR	Aeronautical and Astronautical Engineering	Stanford University
+Patrick Conry	AFOSR	Civil Engineering	University of Notre Dame
+Ethan Corle	ARO	Aeronautical and Astronuatical Engineering	Pennsylvania State University
+Henry Corrigan-Gibbs	ARO	Computer and Computational Sciences	Stanford University
+Guillermo Costa	ARO	Aeronautical and Astronautical Engineernig	Pennsylvania State University
+Jonathan Crompton	ARO	Chemistry	California Institute of Technology
+Tony Dear	ARO	Mechanical Engineering	Carnegie Mellon University
+Joseph DeGol	AFOSR	Computer and Computational Sciences	University of Illinois at Urbana-Champaign
+Gurbir Dhillon	ARO	Mathematics	Stanford University
+Rene Diaz	ONR	Materials Science and Engineering	Georgia Institute of Technology
+Judith Dickson	ARO	Materials Science and Engineering	Georgia Institute of Technology
+Kyle Dillon	ARO	"Cognitive, Neural, and Behavioral Sciences"	Harvard University
+Sarah Ditchek	ONR	Geosciences	State University of New York at Albany
+Atray Dixit	ARO	Electrical Engineering	Massachusetts Institute of Technology
+Neerav Dixit	ARO	Electrical Engineering	Stanford University
+Thomas Dodson	AFOSR	Physics	University of Pennsylvania
+Sage Doshay	ONR	Physics	Stanford University
+Neel Doshi	AFOSR	Electrical Engineering	Harvard University
+Bethany Drain	ARO	Aeronautical and Astronautical Engineering	University of Texas at Austin
+Steven Drapcho	ARO	Physics	"University of California, Berkeley"
+Heather Duckworth	AFOSR	Aeronautical and Astronautical Engineering	California Institute of Technology
+Andrew Eddins	ARO	Physics	"University of California, Berkeley"
+Duncan Eddy	AFOSR	Aeronautical and Astronautical Engineering	Stanford U
+Peter Finocchio	ONR	Geosciences	University of Miami
+Kevin Fischer	ARO	Electrical Engineering	Stanford University
+Sarah Foster	ONR	Oceanography	Boston University
+Alexa Fredston-Hermann	ARO	Biosciences	"University of California, Santa Barbara"
+Simon Freedman	AFOSR	Physics	University of Chicago
+Selene Fregosi	ONR	Oceanography	Oregon State University
+Daniel Fried	ARO	Computer and Computation Sciences	TBD
+Brenna Gibbons	ONR	Materials Science and Engineering	Stanford University
+Ian Gibbs-Hall	AFOSR	Chemistry	Northwestern University
+Gregory Goldgof	ARO	Biosciences	"University of California, San Diego"
+Kevin Golovin	AFOSR	Materials Science and Engineering	"University of Michigan, Ann Arbor"
+Kevin Gu	ONR	Chemical Engineering	Stanford University
+Mark Guttag	ONR	Mechanical Engineering	Massachusetts Institute of Technology
+Rachel Harbeitner	ONR	Oceanography	"University of California, Santa Cruz"
+Thomas Hardin	ARO	Materials Science and Engineering	Massachusetts Institute of Technology
+Elia Harmatz	ARO	Biosciences	Stanford University
+Zach Harris	AFOSR	Aeronautical and Astronautical Engineering	Texas A&M University
+Zachary Harris	ONR	Naval Architecture and Ocean Engineering	Johns Hopkins University
+Joshua Harris	ONR	Aeronautical and Astronautical Engineernig	Texas A&M University
+James Hedrick	AFOSR	Chemical Engineering	Northwestern University
+Jason Heebl	AFOSR	Electrical Engineering	"University of Michigan, Ann Arbor"
+Nicholas Hensel	AFOSR	Mechanical Engineering	Massachusetts Institute of Technology
+Mark Hickle	ONR	Electrical Engineering	Purdue University
+Alexander Hill	ONR	Physics	University of Illinois at Urbana-Champaign
+Hallie Holmes	ONR	Biosciences	University of Washington
+Johnny Hu	AFOSR	Biosciences	Harvard University
+Wenqian Huang	AFOSR	Electrical Engineering	Massachusetts Institute of Technology
+Jessica Hwang	ARO	Mathematics	Stanford University
+Grayson Jackson	ARO	Chemistry	"University of Wisconsin, Madison"
+Elena Jacobson	AFOSR	Chemical Engineering	Tufts University
+Claresta Joe-Wong	ONR	Geosciences	Stanford University
+Benjamin Jones	ONR	Goesciences	Massachusetts Institute of Technology
+Simon Kalouche	ARO	Mechanical Engineering	Carnegie Mellon University
+Cody Karcher	ONR	Aeronautical and Astronautical Engineering	Massachusetts Institute of Technology
+Kara Karpman	AFOSR	Mathematics	Cornell University
+Eugene Kastevich	ONR	Mathematics	Stanford University
+Jason Kaye	AFOSR	Mathematics	New York University
+Laura Kehrl	ONR	Geosciences	University of Washington
+Philip Keller	ARO	Civil Engineering	Stanford University
+Bohdan Khomtchouk	ARO	Biosciences	University of Miami
+Stephen Kirkman	AFOSR	Computer and Computational Sciences	University of Florida
+Michael Knudson	AFOSR	Materials Science and Engineering	Northwestern University
+Gleb Kuznetsov	AFOSR	Biosciences	Harvard University
+Brian Landry	ONR	Biosciences	Rice University
+Allegra Latimer	ARO	Chemical Engineering	Stanford University
+Garrett Lau	AFOSR	Materials Science and Engineering	Northwestern University
+Joseph Lee	AFOSR	Mathematics	Harvard University
+Chase Leibenguth	AFOSR	Aeronautical and Astronautical Engineering	Georgia Institute of Technology
+William LePage	AFOSR	Materials Science and Engineering	"University of Michigan, Ann Arbor"
+John Lewandowski	ONR	Mechanical Engineering	Massachusetts Institute of Technology
+Marianna Linz	AFOSR	Oceanography	Massachusetts Institute of Technology
+Alexander Lou	AFOSR	Chemistry	Northwestern University
+Robert Marsland	AFOSR	Physics	Massachusetts Institute of Technology
+Landon Marston	ARO	Civil Engineering	University of Illinois at Urbana-Champaign
+Logan Matthews	AFOSR	Chemical Engineering	Princeton University
+Eric Mayhew	ONR	Mechanical Engineering	University of Illinois at Urbana-Champaign
+Ian McKay	ARO	Chemical Engineering	Stanford University
+Lisa McManus	ARO	Biosciences	Princeton University
+Erin McParland	ONR	Oceanography	University of Southern California
+Eric Metzger	ONR	Chemistry	Massachusetts Institute of Technology
+Christopher Metzler	ONR	Electrical Engineering	Rice University
+Rachel Miller	ONR	Geosciences	California Institute of Technology
+Pearson Miller	ONR	Physics	Massachusetts Institute of Technology
+David Miranda Nieves	ARO	Materials Science and Engineering	Massachusetts Institute of Technology
+Matthew Mizuhara	ARO	Mathematics	Pennsylvania State University
+Bradley Nakamura	AFOSR	Chemistry	University of Illinois at Urbana-Champaign
+Karthik Narayan	ONR	Computer and Computational Sciences	"University of California, Berkeley"
+Michael Nayak	ARO	Geosciences	"University of California, Santa Cruz"
+Timothy O'Connor	ONR	Materials Science and Engineering	"University of California, San Diego"
+Richard O'Laughlin	ARO	Biosciences	"University of California, San Diego"
+Catherine Olsson	ARO	"Cognitive, Neural, and Behavioral Sciences"	New York University
+Alice Paul	AFOSR	Computer and Computational Sciences	Cornell University
+Aaron Pearlman	ONR	Physics	California Institute of Technology
+Allen Pei	ARO	Materials Science and Engineering	Stanford University
+Norman Pelak	ONR	Geosciences	Duke University
+Daniel Pennachio	ARO	Materials Science and Engineering	"University of California, Santa Barbara"
+Aaron Peters	ARO	Chemistry	Northwestern University
+Kaila Pianalto	ARO	Biosciences	Duke University
+Emma Pierson	ARO	Computer and Computational Sciences	Stanford University
+Varesh Prasad	ONR	Biosciences	Massachusetts Institute of Technology
+Bo Qing	AFOSR	Biosciences	Massachusetts Institute of Technology
+Manan Raval	ARO	Electrical Engineering	Massachusetts Institute of Technology
+Kathlene Reeve	ONR	Materials Science and Engineering	Purdue University
+Hanny Rivera	ONR	Oceanography	Massachusetts Institute of Technology
+Ian Robertson	ONR	Chemistry	University of Illinois at Urbana-Champaign
+Tyler Rohr	ONR	Oceanography	Massachusetts Institute of Technology
+Daniel Ruiz	AFOSR	Physics	Princeton University
+Albert Ryou	ARO	Physics	University of Chicago
+Jonathan Ryss	ONR	Chemistry	Yale University
+Arthur Safira	ARO	Physics	Harvard University
+Adam SanMiguel	ARO	Biosciences	University of Pennsylvania
+Perrin Schiebel	AFOSR	Physics	Georgia Institute of Technology
+Joseph Schneiderwind	ONR	Physics	University of Pennsylvania
+David Scripka	ONR	Materials Science and Engineering	Georgia Institute of Technology
+Alexander Senko	ONR	Materials Science and Engineering	Massachusetts Institute of Technology
+Kirill Serkh	AFOSR	Mathematics	Yale University
+Colin Shields	ONR	Naval Architecture and Ocean Engineering	"University of Michigan, Ann Arbor"
+Ryan Shinabery	ONR	Chemistry	Massachusetts Institute of Technology
+Charles Shobe	ARO	Geosciences	"University of Colorado, Boulder"
+Patrick Shower	ONR	Materials Science and Engineering	"University of Tennessee, Knoxville"
+Michelle Siao	ARO	Biosciences	"Cornell University, School of Medicine"
+Timothy Siegler	ARO	Chemical Engineering	"University of Texas, Austin"
+Miranda So	AFOSR	Materials Science and Engineering	Northwestern University
+Constantine Spanos	ARO	Chemical Engineering	Columbia University
+Adam Stevens	ONR	Mechanical Engineering	Massachusetts Institute of Technology
+Amanda Stowers	AFOSR	Mechanical Engineering	Stanford University
+Adam Summers	AFOSR	Physics	Kansas State University
+Callin Switzer	AFOSR	Biosciences	Harvard University
+Joseph Tassarotti	AFOSR	Computer and Computational Sciences	Carnegie Mellon University
+Melis Tekant	ARO	Physics	Massachusetts Institute of Technology
+Seth Theuerkauf	ONR	Oceanography	North Carolina State University
+Tawny Tsang	ARO	"Cognitive, Neural, and Behavioral Sciences"	"University of California, Los Angeles"
+Thomas Underwood	ARO	Mechanical Engineering	Stanford University
+James Urban	ARO	Mechanical Engineering	"University of California, Berkeley"
+Kevin Vasquez	AFOSR	Chemical Engineering	"University of Texas, Austin"
+Emily Voytek	ARO	Geosciences	Colorado School of Mines
+Karen Wang	AFOSR	Mechanical Engineering	Stanford University
+Andrew Wang	ARO	Computer and Computational Sciences	Massachusetts Institute of Technology
+Sean Weerakkody	AFOSR	Electrical Engineering	Carnegie Mellon University
+Peter Weigel	AFOSR	Electrical Engineering	"University of California, San Diego"
+Alexander Wein	ONR	Computer and Computational Sciences	Massachusetts Institute of Technology
+Samuel Whitehead	AFOSR	Physics	Cornell University
+Eric Whitmire	ARO	Computer and Computational Sciences	University of Washington
+Nikolas Wilkinson	ARO	Chemical Engineering	"University of Minnesota, Twin Cities"
+Hannah Wirtshafter	ARO	"Cognitive, Neural, and Behavioral Sciences"	Massachusetts Institute of Technology
+Gregory Wyant	ARO	Biosciences	Massachusetts Institute of Technology
+Ziang Xie	AFOSR	Computer and Computational Sciences	Stanford University
+Hael Yazdi	ARO	"Cognitive, Neural, and Behavioral Sciences"	"University of California, San Diego"
+Lynnelle Ye	AFOSR	Mathematics	Harvard University
+Theodore Yoder	ONR	Physics	Massachusetts Institute of Technology
